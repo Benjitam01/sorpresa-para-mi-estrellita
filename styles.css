@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#main-content {
+    padding: 20px;
+    margin-top: 50px;
+}
+
+#puzzle-container {
+    margin: 20px 0;
+}
+
+#password-section {
+    margin-top: 20px;
+}
+
+#final-message {
+    margin-top: 50px;
+}
+
+h1 {
+    color: #ff69b4;
+}
+
+p {
+    color: #333;
+}
